@@ -2,6 +2,7 @@
 # Page options, layouts, aliases and proxies
 ###
 require "active_support/core_ext/integer/inflections"
+require 'slim'
 # Per-page layout changes:
 #
 # With no layout

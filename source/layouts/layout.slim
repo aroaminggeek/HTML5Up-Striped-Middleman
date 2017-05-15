@@ -1,0 +1,11 @@
+body
+  = partial "partials/head"
+  /! Content
+  #content
+    .inner
+      = yield
+  /! Sidebar
+  = partial "partials/sidebar"
+  /! Scripts
+  = partial "partials/scripts"
+ 
