@@ -6,7 +6,6 @@ source 'https://rubygems.org'
 # Middleman Gems
 gem "middleman"
 gem "middleman-blog"
-gem 'slim'
 gem 'kramdown'
 # For feed.xml.builder
 gem "builder"
