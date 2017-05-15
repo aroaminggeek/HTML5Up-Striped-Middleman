@@ -7,9 +7,9 @@ article.box.post.post-excerpt
     header
       h2= year
     - articles.each do |article|
-      p
-        = article.date.strftime("%b")
-        = article.date.day.ordinalize
+      h3
+        b= article.date.strftime("%b ")
+        b= article.date.day.ordinalize + ': '
         a href="#{article.url}" = article.title
         = ' - ' + article.data.summary unless article.data.summary.nil?
  
