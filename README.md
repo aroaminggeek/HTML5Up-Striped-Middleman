@@ -2,17 +2,17 @@
 The HTML5 Up "[Striped](https://html5up.net/striped)" theme, converted to [Middleman](http://middlemanapp.com).  
 Single index file from the HTML5Up template, broken down in to easier to manage chunks for Middleman.        
 
-* A customizable `sidebar.html` (& `nav.html`).  
+
 
 Several options configurable in `data/site.yml`: 
-* Social sharing links for posts.  
+* Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, etc).  
 * Site URL (*because it makes my poor code work with the social sharing options and I'm okay with that*)
 * Site name/title
 * Site subtitle
 * Google Analytics.  
 
-
-"Featured Image" 
+A customizable `sidebar.html` (& `nav.html`).  
+Optional "Featured Image" for posts
 
 It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
  
