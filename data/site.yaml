@@ -1,0 +1,4 @@
+siteurl: "http://localhost:4567"
+sitename: Striped
+subtitle: "A theme for middleman"
+#google_tracking_id: 'UA-68131272-1'
