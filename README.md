@@ -4,6 +4,7 @@ Single index file from the HTML5Up template, broken down in to easier to manage 
 A few highlights:  
 
 * A customizable `sidebar.html` (& `nav.html` include).  
+
 Several options configurable in `data/site.yml`:  
 * Site name/title and subtitle
 * Social sharing links for posts.  
