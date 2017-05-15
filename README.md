@@ -4,6 +4,9 @@ Single index file from the HTML5Up template, broken down in to easier to manage 
 
 It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
 
+A customizable `sidebar.html` (& `nav.html`).  
+Optional "Featured Image" for posts
+Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, email et al).  
 
 Several options configurable in `data/site.yml`: 
 * Site URL (*because it makes my poor code work with the social sharing options and I'm okay with that*)
@@ -11,9 +14,6 @@ Several options configurable in `data/site.yml`:
 * Site subtitle
 * Google Analytics.  
 
-A customizable `sidebar.html` (& `nav.html`).  
-Optional "Featured Image" for posts
-Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, email et al).  
 
  
 Main page:  
