@@ -4,7 +4,7 @@ Single index file from the HTML5Up template, broken down in to easier to manage 
 
 It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
 
-Customizable [Sidebar](blob/master/source/partials/_sidebar.slim) & [navigation links](blob/master/source/partials/_nav.slim).  
+Customizable [Sidebar](source/partials/_sidebar.slim) & [navigation](source/partials/_nav.slim) links.  
 Optional "Featured Image" for posts
 Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, email et al).  
 
