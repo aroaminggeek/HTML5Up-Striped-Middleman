@@ -2,7 +2,6 @@
 # Page options, layouts, aliases and proxies
 ###
 require "active_support/core_ext/integer/inflections"
-require 'slim'
 # Per-page layout changes:
 #
 # With no layout
@@ -25,9 +24,9 @@ activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
-  blog.permalink = "entry/{title}.html"
+  blog.permalink = "blog/{title}.html"
   # Matcher for blog source files
-  blog.sources = "entry/{year}-{month}-{day}-{title}.html"
+  blog.sources = "blog/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
   blog.layout = "single"
   blog.summary_separator = /(READMORE)/
