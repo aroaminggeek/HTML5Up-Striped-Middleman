@@ -14,7 +14,7 @@ Several options configurable in `data/site.yml`:
 * Site subtitle
 * Google Analytics.  
 
-
+(There is a "read time" helper but I opted to  not use it at this time -- it's commented out in [index.html.erb](source/index.html.erb))
  
 Main page:  
 ![main](screenshots/main.png)  
