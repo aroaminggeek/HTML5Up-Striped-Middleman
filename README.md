@@ -1,7 +1,8 @@
 # "Striped" by HTML5Up
 The HTML5 Up "[Striped](https://html5up.net/striped)" theme, converted to [Middleman](http://middlemanapp.com).  
-Single index file from the HTML5Up template, broken down in to easier to manage chunks for Middleman.        
+Single index file from the HTML5Up template, broken down in to easier to manage chunks (e.g. partials) for Middleman.        
 
+It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
 
 
 Several options configurable in `data/site.yml`: 
@@ -14,7 +15,6 @@ Several options configurable in `data/site.yml`:
 A customizable `sidebar.html` (& `nav.html`).  
 Optional "Featured Image" for posts
 
-It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
  
 Main page:  
 ![main](screenshots/main.png)  
