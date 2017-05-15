@@ -18,9 +18,11 @@ Several options configurable in `data/site.yml`:
  
 Main page:  
 ![main](screenshots/index.png)  
+
 Single post:  
 ![single post](screenshots/single.png)   
-Aanother single post:  
+
+Another single post:  
 ![another single post](screenshots/single2.png)  
 
 
