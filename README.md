@@ -7,7 +7,7 @@ It may not be pretty, but the theme creation is part of my effort to learn more 
 Customizable [Sidebar](source/partials/_sidebar.slim) & [navigation](source/partials/_nav.slim) links.  
 Optional "Featured Image" for posts
 Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, email et al).  
-
+Fancy shmancy ordinal dates.  
 Several options configurable in `data/site.yml`: 
 * Site URL (*because it makes my poor code work with the social sharing options and I'm okay with that*)
 * Site name/title
