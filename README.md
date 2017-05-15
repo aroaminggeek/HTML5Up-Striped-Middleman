@@ -6,7 +6,6 @@ It may not be pretty, but the theme creation is part of my effort to learn more 
 
 
 Several options configurable in `data/site.yml`: 
-* Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, etc).  
 * Site URL (*because it makes my poor code work with the social sharing options and I'm okay with that*)
 * Site name/title
 * Site subtitle
@@ -14,6 +13,7 @@ Several options configurable in `data/site.yml`:
 
 A customizable `sidebar.html` (& `nav.html`).  
 Optional "Featured Image" for posts
+Social sharing for posts (e.g., readers -- or you -- can share posts to twitter, facebook, reddit, email et al).  
 
  
 Main page:  
