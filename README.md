@@ -17,11 +17,11 @@ Several options configurable in `data/site.yml`:
 (There is a "read time" helper but I opted to  not use it at this time -- it's commented out in [index.html.erb](source/index.html.erb))
  
 Main page:  
-![main](screenshots/main.png)  
+![main](screenshots/index.png)  
 Single post:  
-![single post](screenshots/post.png)   
-Archives page:  
-![Archives](screenshots/archives.png)  
+![single post](screenshots/single.png)   
+Aanother single post:  
+![another single post](screenshots/single2.png)  
 
 
 
