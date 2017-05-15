@@ -1,14 +1,17 @@
 # "Striped" by HTML5Up
 The HTML5 Up "[Striped](https://html5up.net/striped)" theme, converted to [Middleman](http://middlemanapp.com).  
 Single index file from the HTML5Up template, broken down in to easier to manage chunks for Middleman.        
-A few highlights:  
 
-* A customizable `sidebar.html` (& `nav.html` include).  
+* A customizable `sidebar.html` (& `nav.html`).  
 
-Several options configurable in `data/site.yml`:  
-* Site name/title and subtitle
+Several options configurable in `data/site.yml`: 
 * Social sharing links for posts.  
-* Google Analytics. 
+* Site URL (*because it makes my poor code work with the social sharing options and I'm okay with that*)
+* Site name/title
+* Site subtitle
+* Google Analytics.  
+
+
 "Featured Image" 
 
 It may not be pretty, but the theme creation is part of my effort to learn more Ruby.
