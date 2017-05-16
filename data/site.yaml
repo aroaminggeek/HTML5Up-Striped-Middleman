@@ -2,3 +2,8 @@ siteurl: "http://localhost:4567"
 sitename: STRIPED
 subtitle: "An HTML5 Up theme for middleman"
 #google_tracking_id: 'XX-867530-9'
+twitter: twitter_handle
+github:  githubuser
+facebook:  facebookname
+email:  you@yourdomain.com
+federated: https://gnu.io
