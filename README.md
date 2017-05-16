@@ -13,7 +13,9 @@ Several options configurable in `data/site.yml`:
 * Site name/title
 * Site subtitle
 * Google Analytics.  
-* Social links (facebook,twitter, github, email, gnusocial)
+* Social links (facebook,twitter, github, email, gnusocial)  
+
+
 (There is a "read time" helper but I opted to  not use it at this time -- it's commented out in [index.html.erb](source/index.html.erb))
  
 Main page:  
